@@ -1,4 +1,5 @@
-/.idea/
+.idea
+.gitignore
 /.iml
 ### IntelliJ IDEA ###
 /out/
